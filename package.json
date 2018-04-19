@@ -1,0 +1,24 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "This is data structure concepts implementations using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/data-structure.git"
+  },
+  "keywords": [
+    "node",
+    "data-strcuture",
+    "algorithm"
+  ],
+  "author": "\"kgangadhar <karthikg1643@gmail.com> (https://github.com/karthikgangadhar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/data-structure/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/data-structure#readme"
+}
